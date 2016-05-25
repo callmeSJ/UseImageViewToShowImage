@@ -15,6 +15,7 @@
 		336348841CF58F4F00137558 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 336348821CF58F4F00137558 /* LaunchScreen.storyboard */; };
 		3363488F1CF58F4F00137558 /* UseImageViewToShowImageTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3363488E1CF58F4F00137558 /* UseImageViewToShowImageTests.m */; };
 		3363489A1CF58F4F00137558 /* UseImageViewToShowImageUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 336348991CF58F4F00137558 /* UseImageViewToShowImageUITests.m */; };
+		336348A81CF58FBB00137558 /* 8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 336348A71CF58FBB00137558 /* 8.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		336348951CF58F4F00137558 /* UseImageViewToShowImageUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UseImageViewToShowImageUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		336348991CF58F4F00137558 /* UseImageViewToShowImageUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UseImageViewToShowImageUITests.m; sourceTree = "<group>"; };
 		3363489B1CF58F4F00137558 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		336348A71CF58FBB00137558 /* 8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 8.jpg; path = "../../../../../../Pictures/图片/8.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 		336348731CF58F4F00137558 /* UseImageViewToShowImage */ = {
 			isa = PBXGroup;
 			children = (
+				336348A71CF58FBB00137558 /* 8.jpg */,
 				336348771CF58F4F00137558 /* AppDelegate.h */,
 				336348781CF58F4F00137558 /* AppDelegate.m */,
 				3363487A1CF58F4F00137558 /* ViewController.h */,
@@ -243,6 +246,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				336348A81CF58FBB00137558 /* 8.jpg in Resources */,
 				336348841CF58F4F00137558 /* LaunchScreen.storyboard in Resources */,
 				336348811CF58F4F00137558 /* Assets.xcassets in Resources */,
 				3363487F1CF58F4F00137558 /* Main.storyboard in Resources */,
